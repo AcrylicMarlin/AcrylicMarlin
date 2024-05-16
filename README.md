@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# I write discord bots (among other things)
+# Hobby python/sql coder, open to help on any projects!
 
 
 #
