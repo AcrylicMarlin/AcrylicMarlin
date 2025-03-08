@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# I write discord bots (among other things)
+# I write code yippie!!
 
 
 #
